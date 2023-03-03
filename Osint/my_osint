@@ -1,0 +1,9 @@
+go install -v github.com/alpkeskin/mosint@latest
+
+ mosint set hunter <hunter.io API key>
+ mosint set emailrep <emailrep.io API key>
+ mosint set intelx <intelx.io API key>
+ mosint set psbdmp <psbdmp.ws API key>
+ mosint set breachdirectory <breachdirectory.org API key>
+
+
